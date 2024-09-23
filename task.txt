@@ -1,3 +1,8 @@
 #1commit
+<<<<<<< HEAD
 #2commit
 #3commit
+=======
+#3commit
+#4commit
+>>>>>>> 54dc38f (task.txt)
